@@ -1,3 +1,3 @@
 # learning
 Just for learning
-Author-Raj shukla
+Author-Raj Shukla
